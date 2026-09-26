@@ -9,3 +9,9 @@ if(username===1234 && password===1010){
 
 //switchcase
 
+let a=112;
+
+switch(a){
+    case 112:
+        console.log("emergence helpline")
+}
